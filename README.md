@@ -1,4 +1,6 @@
 # GatewayService
 
 # Description
-Spring Gateway
+## Spring Gateway
+
+This project provides an API Gateway built on top of the Spring Ecosystem, including: Spring 6, Spring Boot 3 and Project Reactor. Spring Cloud Gateway aims to provide a simple, yet effective way to route to APIs and provide cross cutting concerns to them such as: security, monitoring/metrics, and resiliency.
